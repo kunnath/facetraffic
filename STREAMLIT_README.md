@@ -2,6 +2,22 @@
 
 A comprehensive web-based application for real-time webcam detection and YouTube video analysis using AI-powered object and face detection.
 
+## 🎬 Project Demo
+
+**Watch the system in action!** See how the AI detection works with this demonstration video:
+
+[![AI Face & Object Detection Demo](https://img.youtube.com/vi/qoRq7hP_pvI/maxresdefault.jpg)](https://youtu.be/qoRq7hP_pvI)
+
+**🔗 Demo URL:** https://youtu.be/qoRq7hP_pvI
+
+This video showcases:
+- ✨ **Real-time face detection** in action
+- 🎯 **Multi-person detection** capabilities  
+- 📊 **Interactive web interface** features
+- 🚀 **Live processing** and results visualization
+
+> 💡 **Try it yourself:** Copy the demo URL above and paste it into the Streamlit app to test the system with the same video!
+
 ## 🌟 Features
 
 ### 📹 Dual Detection Modes
