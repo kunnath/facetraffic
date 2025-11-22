@@ -1,16 +1,30 @@
-# 👥 Face Detection Video Analyzer - Streamlit App
+# 🎯 AI Object & Face Detection System - Streamlit App
 
-A web-based application for detecting and extracting faces from YouTube videos using AI-powered face detection.
+A comprehensive web-based application for real-time webcam detection and YouTube video analysis using AI-powered object and face detection.
 
 ## 🌟 Features
 
-- **YouTube Video Processing**: Download and analyze any YouTube video
-- **AI Face Detection**: Uses OpenCV Haar Cascade for accurate face detection  
-- **Interactive Web Interface**: User-friendly Streamlit interface
-- **Real-time Progress**: Live updates during video processing
-- **Face Gallery**: View all detected faces in a responsive grid
-- **Individual Downloads**: Download specific face images
-- **Session Statistics**: Track processing results and history
+### 📹 Dual Detection Modes
+- **Real-time Webcam Detection**: Live camera feed with instant face and object detection
+- **YouTube Video Analysis**: Download and process any YouTube video for detection
+
+### 🔍 Advanced Detection Capabilities
+- **Face Detection**: OpenCV Haar Cascade for accurate face recognition
+- **Object Detection**: YOLO v3 for comprehensive object identification
+- **Multi-Detection Support**: Choose faces only, objects only, or both simultaneously
+
+### 🎮 Interactive Web Interface
+- **Modern UI**: Clean, responsive Streamlit interface with real-time updates
+- **Live Camera Feed**: WebRTC-powered webcam streaming with overlays
+- **Detection Controls**: Easy switching between detection modes and types
+- **Real-time Statistics**: Live counters and session tracking
+
+### 📊 Advanced Features
+- **Real-time Processing**: Instant detection feedback during webcam use
+- **Batch Processing**: Efficient video analysis with progress tracking
+- **Smart Storage**: Separate folders for webcam captures and video results
+- **Interactive Gallery**: Responsive grid layout with zoom and download options
+- **Session Management**: Track multiple videos and webcam sessions
 
 ## 🚀 Quick Start
 
